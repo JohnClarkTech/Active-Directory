@@ -1,4 +1,4 @@
-GibHub - John Clark - jclark400@outlook.com
+GibHub - John Clark
 ------------------------------------------------
 
 Repository: Active-Directory
